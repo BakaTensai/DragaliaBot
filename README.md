@@ -1,0 +1,2 @@
+# DragaliaBot
+Dragalia discord bot
